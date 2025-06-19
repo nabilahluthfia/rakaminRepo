@@ -1,4 +1,3 @@
-# Nabilah Editornya
+# Percobaan Git Day 1
 
-Ini nabilah
-git 
+Editor Nabilah
